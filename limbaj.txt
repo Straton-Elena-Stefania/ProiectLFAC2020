@@ -1,0 +1,62 @@
+string f;
+string strings;
+bool var;
+int fsdfa;
+char x;
+float j;
+
+structX structura {
+  int x;
+}
+
+int[1234] sandu;
+
+const int xconstanta=234;
+
+string i=concat("asxdcfvg","asxdcfvgbhn");
+string inx=concat(f,strings);
+bool gfdgs = strle("fdsf", "fdsf");
+bool gfdgssdf = strge("fdsf", "fdsf");
+
+funcX string gsdfg() {
+  int gfdsag;
+}
+
+funcX int gsdfgds(int x, int y) {
+
+}
+
+structX structura2 {
+  int x;
+  
+}
+char[1124] ana;
+structX fds {
+  int x = 232 + gsdfgds(21, 3232);
+  float[32] gfd;
+  funcX void fdsfds(int a, float x, int y) {
+    int x = 32 + (23 + 43) * 434 + a;
+    structura s = new structura;
+    eval(321 + 342);
+    bool y = 343 > 323 || 32 <= 2312 && 543 + 434 / 4324 == 323 * 342 && !false;
+    
+    string z = concat(gsdfg(), "fdafs");
+    int fdsa;
+    fdsa = 232;
+    float b = 23;
+    
+    for x in b { }
+    while (true && false) {
+      return 232 + x[3213][42345] * x[312];
+    }
+    b = 432;
+    if 323 > 432 {
+    }
+    if (323 > 432) {
+    } else {
+      int element;
+      for element in array {
+      }
+    }
+  }
+}
